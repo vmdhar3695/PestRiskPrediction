@@ -1,0 +1,32 @@
+# --- Backend ---
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+
+# --- Data & ML ---
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+xgboost==2.1.1
+torch==2.4.0
+requests==2.32.3
+
+# --- RAG ---
+chromadb==0.5.5
+langchain==0.2.16
+langchain-community==0.2.16
+pypdf==4.3.1
+sentence-transformers==3.0.1
+
+# --- LLM (pick whichever you have an API key for) ---
+anthropic==0.34.2
+openai==1.44.0
+
+# --- Frontend ---
+streamlit==1.38.0
+
+# --- Alerts (optional, Phase 8) ---
+twilio==9.2.4
+
+# --- Utilities ---
+python-dotenv==1.0.1
