@@ -278,8 +278,9 @@ A: Experiment 1 (accuracy/precision/recall/F1, baseline vs. LSTM) and Experiment
 
 | S.No | Regd. No. | Name |
 |---|---|---|
-| 1 | 23B01A66C5 | S.V.D. Deepthi |
-| 2 | 23B01A66D2 | E. Tejaswi |
-| 3 | 23B01A66D9 | R. Kalyan Kumar Naik |
+| 1 | 23B01A61C5 | S.V.D. Deepthi |
+| 2 | 23B01A61D2 | E. Tejaswi |
+| 3 | 23B01A61D9 | R. Kalyan Kumar Naik |
+| 4 | 24BQ5A6118 | U. Pravallika
 
 *(Please verify these against your actual form — small digits were hard to read in the photo.)*
