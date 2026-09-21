@@ -227,6 +227,9 @@ Public substitute: https://www.data.gov.in/sector/agriculture
    https://pmc.ncbi.nlm.nih.gov/articles/PMC11479041/
 4. (2025/2026). *Empowering farmers with artificial intelligence: a retrieval-augmented generation based large language model advisory framework.* Journal of Agricultural Engineering.
    https://www.agroengineering.org/jae/article/view/1908
+5. (2025/2026). Yang, Y., Chen, L., Diao, Z., Gao, P., Zhang, B., & Zhao, C. (2026).*Recent advances in crop pest detection, forecasting and early warning: A review.*
+   Artificial Intelligence in Agriculture, 16, 998–1024.
+   https://doi.org/10.1016/j.aiia.2026.03.009
 
 **How to download:** open each link → Ctrl+P → Save as PDF → print.
 
@@ -278,9 +281,9 @@ A: Experiment 1 (accuracy/precision/recall/F1, baseline vs. LSTM) and Experiment
 
 | S.No | Regd. No. | Name |
 |---|---|---|
-| 1 | 23B01A61C5 | S.V.D. Deepthi |
-| 2 | 23B01A61D2 | E. Tejaswi |
-| 3 | 23B01A61D9 | R. Kalyan Kumar Naik |
+| 1 | 23BQ1A61C5 | S.V.D. Deepthi |
+| 2 | 23BQ1A61D2 | E. Tejaswi |
+| 3 | 23BQ1A61B4 | R. Kalyan Kumar Naik |
 | 4 | 24BQ5A6118 | U. Pravallika
 
 *(Please verify these against your actual form — small digits were hard to read in the photo.)*
